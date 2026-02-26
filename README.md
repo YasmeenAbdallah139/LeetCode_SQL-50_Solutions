@@ -28,93 +28,93 @@ sql-50-solutions/
 
 ## 📋 Solutions Table
 
+
 ### 🔹 Select
 
 | # | Problem | Difficulty | Solution |
 |---|---------|:----------:|:--------:|
-| 1 | Recyclable and Low Fat Products | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/select/01_recyclable_and_low_fat_products.sql) |
-| 2 | Find Customer Referee | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/select/02_find_customer_referee.sql) |
-| 3 | Big Countries | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/select/03_big_countries.sql) |
-| 4 | Article Views I | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/select/04_article_views_i.sql) |
-| 5 | Invalid Tweets | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/select/05_invalid_tweets.sql) |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/select/01_recyclable_and_low_fat_products.sql) |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/select/02_find_customer_referee.sql) |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/select/03_big_countries.sql) |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/select/04_article_views_i.sql) |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/select/05_invalid_tweets.sql) |
 
 ### 🔹 Basic Joins
 
 | # | Problem | Difficulty | Solution |
 |---|---------|:----------:|:--------:|
-| 6 | Replace Employee ID With The Unique Identifier | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/06_replace_employee_id.sql) |
-| 7 | Product Sales Analysis I | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/07_product_sales_analysis_i.sql) |
-| 8 | Customer Who Visited but Did Not Make Any Transactions | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/08_customer_no_transactions.sql) |
-| 9 | Rising Temperature | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/09_rising_temperature.sql) |
-| 10 | Average Time of Process per Machine | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/10_avg_time_per_machine.sql) |
-| 11 | Employee Bonus | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/11_employee_bonus.sql) |
-| 12 | Students and Examinations | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/12_students_and_examinations.sql) |
-| 13 | Managers with at Least 5 Direct Reports | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/13_managers_5_direct_reports.sql) |
-| 14 | Confirmation Rate | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/14_confirmation_rate.sql) |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/06_replace_employee_id.sql) |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/07_product_sales_analysis_i.sql) |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/08_customer_no_transactions.sql) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/09_rising_temperature.sql) |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/10_avg_time_per_machine.sql) |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/11_employee_bonus.sql) |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/12_students_and_examinations.sql) |
+| 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/13_managers_5_direct_reports.sql) |
+| 1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/basic-joins/14_confirmation_rate.sql) |
 
 ### 🔹 Basic Aggregate Functions
 
 | # | Problem | Difficulty | Solution |
 |---|---------|:----------:|:--------:|
-| 15 | Not Boring Movies | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/15_not_boring_movies.sql) |
-| 16 | Average Selling Price | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/16_average_selling_price.sql) |
-| 17 | Project Employees I | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/17_project_employees_i.sql) |
-| 18 | Percentage of Users Attended a Contest | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/18_percentage_contest.sql) |
-| 19 | Queries Quality and Percentage | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/19_queries_quality.sql) |
-| 20 | Monthly Transactions I | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/20_monthly_transactions_i.sql) |
-| 21 | Immediate Food Delivery II | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/21_food_delivery_ii.sql) |
-| 22 | Game Play Analysis IV | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/22_game_play_analysis_iv.sql) |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/15_not_boring_movies.sql) |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/16_average_selling_price.sql) |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/17_project_employees_i.sql) |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/18_percentage_contest.sql) |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/19_queries_quality.sql) |
+| 1193 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/20_monthly_transactions_i.sql) |
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/21_food_delivery_ii.sql) |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/basic-aggregate-functions/22_game_play_analysis_iv.sql) |
 
 ### 🔹 Sorting and Grouping
 
 | # | Problem | Difficulty | Solution |
 |---|---------|:----------:|:--------:|
-| 23 | Number of Unique Subjects Taught by Each Teacher | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/23_unique_subjects_per_teacher.sql) |
-| 24 | User Activity for the Past 30 Days I | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/24_user_activity_30_days.sql) |
-| 25 | Product Sales Analysis III | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/25_product_sales_analysis_iii.sql) |
-| 26 | Classes With at Least 5 Students | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/26_classes_5_students.sql) |
-| 27 | Find Followers Count | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/27_find_followers_count.sql) |
-| 28 | Biggest Single Number | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/28_biggest_single_number.sql) |
-| 29 | Customers Who Bought All Products | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/29_customers_all_products.sql) |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/23_unique_subjects_per_teacher.sql) |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/24_user_activity_30_days.sql) |
+| 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/25_product_sales_analysis_iii.sql) |
+| 596 | [Classes With at Least 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/26_classes_5_students.sql) |
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/27_find_followers_count.sql) |
+| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/28_biggest_single_number.sql) |
+| 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/sorting-and-grouping/29_customers_all_products.sql) |
 
 ### 🔹 Advanced Select and Joins
 
 | # | Problem | Difficulty | Solution |
 |---|---------|:----------:|:--------:|
-| 30 | The Number of Employees Which Report to Each Employee | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/30_employees_report_to_each.sql) |
-| 31 | Primary Department for Each Employee | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/31_primary_department.sql) |
-| 32 | Triangle Judgement | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/32_triangle_judgement.sql) |
-| 33 | Consecutive Numbers | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/33_consecutive_numbers.sql) |
-| 34 | Product Price at a Given Date | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/34_product_price_given_date.sql) |
-| 35 | Last Person to Fit in the Bus | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/35_last_person_in_bus.sql) |
-| 36 | Count Salary Categories | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/36_count_salary_categories.sql) |
+| 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/30_employees_report_to_each.sql) |
+| 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/31_primary_department.sql) |
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/32_triangle_judgement.sql) |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/33_consecutive_numbers.sql) |
+| 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/34_product_price_given_date.sql) |
+| 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/35_last_person_in_bus.sql) |
+| 1907 | [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/advanced-select-and-joins/36_count_salary_categories.sql) |
 
 ### 🔹 Subqueries
 
 | # | Problem | Difficulty | Solution |
 |---|---------|:----------:|:--------:|
-| 37 | Employees Whose Manager Left the Company | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/subqueries/37_employees_manager_left.sql) |
-| 38 | Exchange Seats | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/subqueries/38_exchange_seats.sql) |
-| 39 | Movie Rating | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/subqueries/39_movie_rating.sql) |
-| 40 | Restaurant Growth | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/subqueries/40_restaurant_growth.sql) |
-| 41 | Friend Requests II: Who Has the Most Friends | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/subqueries/41_friend_requests_most_friends.sql) |
-| 42 | Investments in 2016 | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/subqueries/42_investments_2016.sql) |
-| 43 | Department Top Three Salaries | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | [MS SQL SERVER](solutions/subqueries/43_department_top_three_salaries.sql) |
+| 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/subqueries/37_employees_manager_left.sql) |
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/subqueries/38_exchange_seats.sql) |
+| 1341 | [Movie Rating](https://leetcode.com/problems/movie-rating/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/subqueries/39_movie_rating.sql) |
+| 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/subqueries/40_restaurant_growth.sql) |
+| 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/subqueries/41_friend_requests_most_friends.sql) |
+| 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/subqueries/42_investments_2016.sql) |
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | ![Hard](https://img.shields.io/badge/-Hard-red?style=flat-square) | [MS SQL SERVER](solutions/subqueries/43_department_top_three_salaries.sql) |
 
 ### 🔹 Advanced String Functions / Regex / Clause
 
 | # | Problem | Difficulty | Solution |
 |---|---------|:----------:|:--------:|
-| 44 | Fix Names in a Table | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/44_fix_names.sql) |
-| 45 | Patients With a Condition | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/45_patients_with_condition.sql) |
-| 46 | Delete Duplicate Emails | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/46_delete_duplicate_emails.sql) |
-| 47 | Second Highest Salary | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/47_second_highest_salary.sql) |
-| 48 | Group Sold Products By The Date | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/48_group_sold_products_by_date.sql) |
-| 49 | List the Products Ordered in a Period | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/49_products_ordered_in_period.sql) |
-| 50 | Find Users With Valid E-Mails | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/50_find_valid_emails.sql) |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/44_fix_names.sql) |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/45_patients_with_condition.sql) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/46_delete_duplicate_emails.sql) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | ![Medium](https://img.shields.io/badge/-Medium-yellow?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/47_second_highest_salary.sql) |
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/48_group_sold_products_by_date.sql) |
+| 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/49_products_ordered_in_period.sql) |
+| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | ![Easy](https://img.shields.io/badge/-Easy-green?style=flat-square) | [MS SQL SERVER](solutions/advanced-string-functions/50_find_valid_emails.sql) |
 
 ---
-
 ## 📊 Progress
 
 | Category | Solved | Total |
@@ -127,22 +127,6 @@ sql-50-solutions/
 | Subqueries | 7 | 7 |
 | Advanced String Functions | 7 | 7 |
 | **Total** | **25** | **50** |
-
----
-
-## 🚀 How to Use
-
-Each `.sql` file follows this format:
-
-```sql
--- Problem: <Problem Name>
--- Link: https://leetcode.com/problems/...
--- Difficulty: Easy / Medium / Hard
-
--- Approach: brief explanation of the solution logic
-
-SELECT ...
-```
 
 ---
 
