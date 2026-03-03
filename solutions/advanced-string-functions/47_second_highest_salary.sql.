@@ -1,0 +1,8 @@
+WITH salaries_after_filter AS (
+    SELECT *,
+           DENSE_RANK() OVER (ORDER BY salary DESC) AS dr
+    FROM Employee
+)
+SELECT MAX(salary) AS SecondHighestSalary
+FROM salaries_after_filter
+WHERE dr = 2;
