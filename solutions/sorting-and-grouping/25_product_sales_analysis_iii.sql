@@ -7,3 +7,13 @@ Sales AS A  INNER JOIN
     ) AS B
 ON A.product_id=B.product_id
 AND A.year=B.first_year
+
+//another sol
+
+SELECT product_id, year AS first_year, quantity, price
+FROM (
+    SELECT *,
+           DENSE_RANK() OVER (PARTITION BY product_id ORDER BY year ASC) AS DN
+    FROM Sales
+) t
+WHERE DN = 1;
