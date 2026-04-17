@@ -1,14 +1,9 @@
-SELECT CONVERT(VARCHAR(7), trans_date, 23) AS month, 
-       country, 
-       COUNT(*) AS trans_count,
-       SUM(CASE
-           WHEN state = 'approved' THEN 1
-           ELSE 0 
-       END) AS approved_count,
-       SUM(amount) AS trans_total_amount, 
-       SUM(CASE 
-           WHEN state = 'approved' THEN amount
-           ELSE 0
-       END) AS approved_total_amount 
-FROM Transactions 
-GROUP BY CONVERT(VARCHAR(7), trans_date, 23), country
+SELECT ROUND(COUNT(T.CUSTOMER_ID) * 100.00 / 
+    (SELECT COUNT(DISTINCT CUSTOMER_ID) FROM DELIVERY), 2) AS IMMEDIATE_PERCENTAGE
+FROM (
+    SELECT *,
+           DENSE_RANK() OVER (PARTITION BY CUSTOMER_ID ORDER BY ORDER_DATE) AS R
+    FROM DELIVERY
+) AS T
+WHERE R = 1 
+  AND ORDER_DATE = CUSTOMER_PREF_DELIVERY_DATE;
